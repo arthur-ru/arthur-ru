@@ -1,6 +1,5 @@
-# Hi there! 👋 I'm Arthur Rubio
-
-Welcome to my coding corner! 🚀 I'm a passionate computer science student currently pursuing my Master's degree at Enseirb-Matmeca, a leading French engineering school.
+<h1 align="center">Hi 👋, I'm Arthur Rubio</h1>
+<h3 align="center">A passionate Data Science & AI student from France</h3>
 
 You can reach out to me via <a href="https://www.linkedin.com/in/arthur-rubio/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="15" />Linkedin</a>
 
@@ -33,12 +32,6 @@ You can reach out to me via <a href="https://www.linkedin.com/in/arthur-rubio/" 
 
 **Have a nice day !**
 
-<h1 align="center">Hi 👋, I'm Arthur Rubio</h1>
-<h3 align="center">A passionate Data Science & AI student from France</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
