@@ -46,6 +46,5 @@
 
 **Have a nice day !**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur-ru&show_icons=true&locale=en&layout=compact" alt="arthur-ru" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur-ru&show_icons=true&locale=en" alt="arthur-ru" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthur-ru&" alt="arthur-ru" /></p>
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-ru&layout=compact&count_private=true&theme=calm&hide=css,HTML)
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-ru&show_icons=true&theme=calm&count_private=true&show_icons=true)
