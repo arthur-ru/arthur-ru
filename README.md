@@ -38,7 +38,7 @@
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/10/formation-git.png" alt="git" width="40" height="40" /></a>
   <a href="https://www.atlassian.com/en/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="JIRA" width="40" height="40" /></a>
-  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/power-bi-icon-384x512-bujnuaon.pngg" alt="PowerBI" width="30" height="40" /></a>
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/power-bi-icon-384x512-bujnuaon.png" alt="PowerBI" width="30" height="40" /></a>
   <a href="https://fr.wikipedia.org/wiki/Shellcode" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="shell" width="40" height="40" /></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://logo-marque.com/wp-content/uploads/2020/09/Linux-Logo.png" alt="unix" width="70" height="40" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40" /></a>
