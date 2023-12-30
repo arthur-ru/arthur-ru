@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Arthur Rubio</h1>
-<h3 align="center">A passionate Data Science & AI student from France</h3>
-<h4 align="center"> You can reach out to me via <a href="https://www.linkedin.com/in/arthur-rubio/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="15" />Linkedin</a>! <h4 align="center">
+![Design and Development](https://github.com/arthur-ru/arthur-ru/blob/master/Rubio_Banner.jpg)
+
+# Hi 👋, I'm Arthur Rubio
+## A passionate Data Science & AI student from France
+<h4 align="left"> You can reach out to me via <a href="https://www.linkedin.com/in/arthur-rubio/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="15" />Linkedin</a>! <h4 align="center">
 
 
 <h2 align="left">💻 My Skills:</h2>
