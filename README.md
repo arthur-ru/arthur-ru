@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/arthur-ru/arthur-ru/blob/master/Rubio_Banner.jpg)
+![Data Science Student](https://github.com/arthur-ru/arthur-ru/blob/main/Rubio_Banner.png)
 
 # Hi 👋, I'm Arthur Rubio
 ## A passionate Data Science & AI student from France
