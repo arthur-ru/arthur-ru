@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Arthur Rubio
 ## A passionate Data Science & AI student from France
-<h4 align="left"> You can reach out to me via <a href="https://www.linkedin.com/in/arthur-rubio/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="15" />Linkedin</a>! <h4 align="center">
+<h4 align="left"> Reach out to me via <a href="https://www.linkedin.com/in/arthur-rubio/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="15" />Linkedin</a>! <h4 align="center">
 
 
 <h2 align="left">💻 My Skills:</h2>
@@ -37,10 +37,15 @@
 <h3 align="left">🔎 Others:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/10/formation-git.png" alt="git" width="40" height="40" /></a>
+  <a href="https://www.atlassian.com/en/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="JIRA" width="40" height="40" /></a>
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/power-bi-icon-384x512-bujnuaon.pngg" alt="PowerBI" width="30" height="40" /></a>
   <a href="https://fr.wikipedia.org/wiki/Shellcode" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="shell" width="40" height="40" /></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://logo-marque.com/wp-content/uploads/2020/09/Linux-Logo.png" alt="unix" width="70" height="40" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40" /></a>
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://i.stack.imgur.com/AarYf.png" alt="latex" width="70" height="40" /></a>
-  <a href="https://www.atlassian.com/en/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="JIRA" width="40" height="40" /></a>
 
 **Have a nice day !**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur-ru&show_icons=true&locale=en&layout=compact" alt="arthur-ru" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur-ru&show_icons=true&locale=en" alt="arthur-ru" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthur-ru&" alt="arthur-ru" /></p>
