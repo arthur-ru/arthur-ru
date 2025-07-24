@@ -1,7 +1,7 @@
-![Data Science Student](https://github.com/arthur-ru/arthur-ru/blob/main/Rubio_Banner.png)
+<!-- ![Data Science Student](https://github.com/arthur-ru/arthur-ru/blob/main/Rubio_Banner.png) -->
 
-# Hi 👋, I'm Arthur Rubio
-## A passionate Data Science & AI student from France
+# Hi, I'm Arthur Rubio
+## On a journey exploring data-driven asset management
 <h4 align="left"> Reach out to me via <a href="https://www.linkedin.com/in/arthur-rubio/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="15" />Linkedin</a>! <h4 align="center">
 
 
@@ -25,7 +25,6 @@
   <a href="https://fr.wikipedia.org/wiki/Structured_Query_Language" target="blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="90" height="40" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <!--TODO: Add postgresql, fastapi, pydantic, sqlalchemy -->
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
  
 <h3 align="left">🌐 Web development:</h3>
@@ -40,8 +39,6 @@
   <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png" alt="PowerBI" width="30" height="40" /></a>
   <a href="https://fr.wikipedia.org/wiki/Shellcode" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="shell" width="40" height="40" /></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://logo-marque.com/wp-content/uploads/2020/09/Linux-Logo.png" alt="unix" width="70" height="40" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40" /></a>
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://i.stack.imgur.com/AarYf.png" alt="latex" width="70" height="40" /></a>
 
 **Have a nice day !**
 
