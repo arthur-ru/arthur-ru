@@ -1,5 +1,5 @@
 # I'm Arthur Rubio
-**Fixed Income Risk & PnL — BNP Paribas CIB, New York**
+**Fixed Income Risk & PnL**
 
 Rates and volatility, from the risk side.
 Here I rebuild the pricing machinery from first principles: SOFR curve bootstrapping, swaption pricing under Black-76, SABR smile calibration. Mostly Python.
