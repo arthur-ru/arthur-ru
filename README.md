@@ -1,7 +1,10 @@
-<!-- ![Data Science Student](https://github.com/arthur-ru/arthur-ru/blob/main/Rubio_Banner.png) -->
-
 # I'm Arthur Rubio
-## Perfecting tools for asset pricing and asset management
+**Fixed Income Risk & PnL — BNP Paribas CIB, New York**
+
+Rates and volatility, from the risk side.
+Here I rebuild the pricing machinery from first principles: SOFR curve bootstrapping, swaption pricing under Black-76, SABR smile calibration. Mostly Python.
+
+Background in mathematics and statistical modelling — Télécom Paris, two peer-reviewed papers.
 <h4 align="left"> Reach out to me via <a href="https://www.linkedin.com/in/arthur-rubio/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="15" />Linkedin</a>! <h4 align="center">
 
 
